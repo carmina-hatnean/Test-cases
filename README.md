@@ -99,7 +99,28 @@ Pass
 ---------------------------------------
 
 ## Test 5
+**Description:**
+Check if search give an error when you are looking for something that doesn't exist.
 
+**Steps to Reproduce:**
+1. Go to www.website.com
+2. Add a query in a search box
+3. Press Search button
+
+**Expected result:**
+User should see an error message.
+
+**Test Data:**
+Query: Canon D12345
+
+**Actual Results**
+User see the irrelative search result.
+
+**Pass/Fail**
+Fail
+
+**Note:**
+Please make a Bug Report.
 
 ---------------------------------------
 
@@ -124,4 +145,4 @@ As Expected
 **Pass/Fail**
 Pass
 
-
+-----------------------------------
