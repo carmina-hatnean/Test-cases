@@ -57,7 +57,22 @@ User shouldn't be able to login and below the input will show the message: "Plea
 -------------------------------
 
 
+**Description:**
+Check if the search results are relevant to the search query.
 
+**Steps to Reproduce:**
+1. Go to www.website.com
+2. Add a query in a search box
+3. Press Search button
+
+**Expected result:**
+User should have the relative search result.
+
+**Test Data:**
+Query: Black T-Shirt
+
+
+---------------------------------------
 
 
 
