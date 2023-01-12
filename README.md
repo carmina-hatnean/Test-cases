@@ -42,7 +42,7 @@ Please check the login again after running this test case.
 
 
 ----------------
-
+## Test 3
 **Description:**
 Check if the login works when a person don't enter a user/pass.
 
@@ -56,7 +56,7 @@ User shouldn't be able to login and below the input will show the message: "Plea
 
 -------------------------------
 
-
+## Test 4
 **Description:**
 Check if the search results are relevant to the search query.
 
@@ -74,7 +74,7 @@ Query: Black T-Shirt
 
 ---------------------------------------
 
-
+## Test 5
 
 
 
