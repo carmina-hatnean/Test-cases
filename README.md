@@ -22,4 +22,31 @@ User: carmina & Pass: 123456
 ----------------
 
 **Description:**
+Check if forgot password functionality works as expedted and an email with reset password link is sent.
+
+**Steps to Reproduce:**
+1. Go to www.website.com/login
+2. Press "Forgot Password" button
+3. Add an email address
+4. Press "Recover" button
+
+**Expected result:**
+User should receive an email with a reset password link. That link should allow the user to create a new password.
+
+**Test Data:**
+User: carmina@email.com
+
+**Note:**
+Please check the login again after running this test case.
+
+
+
+----------------
+
+
+
+
+
+
+
 
