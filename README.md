@@ -3,7 +3,7 @@
 Below are some Test Case samples that I wrote while working on previous projects.
 
 ----------------
-
+## Test 1
 **Description:**
 Check if the login works when a person uses a correct user/pass.
 
@@ -20,7 +20,7 @@ User: carmina & Pass: 123456
 
 
 ----------------
-
+## Test 2
 **Description:**
 Check if forgot password functionality works as expected and an email with reset password link is sent.
 
