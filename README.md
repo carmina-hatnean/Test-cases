@@ -18,6 +18,11 @@ User should be able to login and is taken to his profile page.
 **Test Data:**
 User: carmina & Pass: 123456
 
+**Actual Results**
+As Expected
+
+**Pass/Fail**
+Pass
 
 ----------------
 ## Test 2
