@@ -44,6 +44,11 @@ User: carmina@email.com
 **Note:**
 Please check the login again after running this test case.
 
+**Actual Results**
+As Expected
+
+**Pass/Fail**
+Pass
 
 
 ----------------
@@ -58,6 +63,11 @@ Check if the login works when a person don't enter a user/pass.
 **Expected result:**
 User shouldn't be able to login and below the input will show the message: "Please enter a username or email address.". 
 
+**Actual Results**
+As Expected
+
+**Pass/Fail**
+Pass
 
 -------------------------------
 
@@ -76,6 +86,11 @@ User should have the relative search result.
 **Test Data:**
 Query: Black T-Shirt
 
+**Actual Results**
+As Expected
+
+**Pass/Fail**
+Pass
 
 ---------------------------------------
 
