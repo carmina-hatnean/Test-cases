@@ -43,6 +43,20 @@ Please check the login again after running this test case.
 
 ----------------
 
+**Description:**
+Check if the login works when a person don't enter a user/pass.
+
+**Steps to Reproduce:**
+1. Go to www.website.com/login
+2. Press Login button
+
+**Expected result:**
+User shouldn't be able to login and below the input will show the message: "Please enter a username or email address.". 
+
+
+-------------------------------
+
+
 
 
 
