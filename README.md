@@ -18,10 +18,10 @@ User should be able to login and is taken to his profile page.
 **Test Data:**
 User: carmina & Pass: 123456
 
-**Actual Results**
+**Actual Results:**
 As Expected
 
-**Pass/Fail**
+**Pass/Fail:**
 Pass
 
 ----------------
@@ -41,10 +41,10 @@ User should receive an email with a reset password link. That link should allow 
 **Test Data:**
 User: carmina@email.com
 
-**Actual Results**
+**Actual Results:**
 As Expected
 
-**Pass/Fail**
+**Pass/Fail:**
 Pass
 
 **Note:**
@@ -67,10 +67,10 @@ User shouldn't be able to login and below the input will show the message: "Plea
 **Test Data:**
 user: empty & pass: 123456 or user: carmina & pass: empty
 
-**Actual Results**
+**Actual Results:**
 As Expected
 
-**Pass/Fail**
+**Pass/Fail:**
 Pass
 
 -------------------------------
@@ -90,10 +90,10 @@ User should have the relative search result.
 **Test Data:**
 Query: Black T-Shirt
 
-**Actual Results**
+**Actual Results:**
 As Expected
 
-**Pass/Fail**
+**Pass/Fail:**
 Pass
 
 ---------------------------------------
@@ -113,10 +113,10 @@ User should see an error message.
 **Test Data:**
 Query: Canon D12345
 
-**Actual Results**
+**Actual Results:**
 User see the irrelative search result.
 
-**Pass/Fail**
+**Pass/Fail:**
 Fail
 
 **Note:**
@@ -139,10 +139,10 @@ An error message "User does not exist. Would you like to create a new account?" 
 **Test Data:**
 User: '123' OR '1'='1' & pass: '123' OR '1'='1'
 
-**Actual Results**
+**Actual Results:**
 As Expected
 
-**Pass/Fail**
+**Pass/Fail:**
 Pass
 
 -----------------------------------
