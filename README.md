@@ -65,7 +65,7 @@ Check if the login works when a person don't enter a user or pass.
 User shouldn't be able to login and below the input will show the message: "Please enter a username or email address.". 
 
 **Test Data:**
-user: empty & pass: 123456 or user: carmina & pass: empty
+User: empty & Pass: 123456 or user: carmina & pass: empty
 
 **Actual Results:**
 As Expected
@@ -137,7 +137,7 @@ Check if the login don't works when a person enter a special characters.
 An error message "User does not exist. Would you like to create a new account?" must shown.
 
 **Test Data:**
-User: '123' OR '1'='1' & pass: '123' OR '1'='1'
+User: '123' OR '1'='1' & Pass: '123' OR '1'='1'
 
 **Actual Results:**
 As Expected
